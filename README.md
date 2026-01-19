@@ -1,4 +1,4 @@
-(Paste your ASCII art here)
+
 <div align="center">
 
 <div align="center">
